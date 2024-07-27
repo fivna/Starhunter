@@ -2,6 +2,7 @@
 
 This is a simple console-based game that involves navigating a grid to collect point blocks while avoiding randomly placed walls. 
 
+# Game Instructions
 _Goal:_ 
 - Collect all point blocks (★) to reach a score of 25
 - Avoid walls (☐) and navigate the grid efficiently
