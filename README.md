@@ -1,4 +1,4 @@
-#🌟 Star Hunter 🌟
+# Star Hunter
 
 This is a simple console-based game that involves navigating a grid to collect point blocks while avoiding randomly placed walls. 
 
