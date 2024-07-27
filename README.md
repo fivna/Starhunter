@@ -18,10 +18,4 @@ _Movement:_
 - Use S to move down
 - Use D to move right
 
-_Installation:_
-To run this game, you must have Java installed.
 
-1. Clone the repository
-2. Navigate to the project directory
-3. Compile the Java file
-4. Run the game
